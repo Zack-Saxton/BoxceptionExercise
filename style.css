@@ -1,0 +1,36 @@
+html{
+    /* margin: 50px; */
+    background-color: white;
+    margin: -60px;
+    text-align: center;
+}
+
+.last-box {
+    background-color: white;
+  width: 100px;
+  height: 100px;
+  border:3px solid black;
+  margin: auto;
+  /* margin-top: 300px;  */
+  margin-top: 150px;
+}
+
+.medium-box{
+    background-color: blue;
+    width: 400px;
+  height: 400px;
+  border:3px solid black;
+  margin: auto;
+  margin-top: 200px;
+  /* padding-top: 50px; */
+  
+}
+
+.large-box{
+    background-color:red;
+    width: 800px;
+  height: 800px;
+  border:3px solid black;
+  margin: auto;
+   
+}
